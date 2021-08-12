@@ -4,4 +4,3 @@ My name is Eli, I am a Musician & Dev.
 - 🎶 I’m currently listening to Jon Bellion's The Definition
 - 📫 How to reach me: eli@staff.tie.cx
 - ⚡ Fun fact: I write a lot of code, most of it broken.
--->
