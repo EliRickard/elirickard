@@ -1,6 +1,7 @@
 ### Hi there 👋
 My name is Eli, I am a Musician & Dev (Also do pretty much anything in-between).
-- 🏢 I am currently the Chief Operating Officer @ [Songoda](https://songoda.com)
+- 🏢 Managing Director @ [Craftaro](https://craftaro.com)
+- 🏢 Former Chief Operating Officer @ [Songoda](https://songoda.com)
 - 🔭 I have formerly worked as the Lead Technical Coordinator @ [tie.cx](https://tie.cx "Bio links made better and free.") & as a Project Leader @ [The Rickard Group](https://rickard.co)
 - 🎶 I’m currently listening to Jon Bellion's The Definition
 - 📫 How to reach me: [ē.ws](http://ē.ws) [[Mirror]](https://tie.cx/eli)
